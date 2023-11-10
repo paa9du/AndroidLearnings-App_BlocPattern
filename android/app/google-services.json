@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869315086761",
+    "project_id": "spiderlearningsblocpattern",
+    "storage_bucket": "spiderlearningsblocpattern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869315086761:android:ed8c054fa7c817c6081cb8",
+        "android_client_info": {
+          "package_name": "com.example.spider_learnings_bloc_pattern"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5SrWvPjbxdDsSfBCrqZ1bGm5ReyQUWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
